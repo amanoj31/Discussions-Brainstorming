@@ -1,4 +1,4 @@
-# Analytics at an Amusement Park
+# Analytics at an Amusement Park : Improving Customer Experience
 
 
 ## Problem Statement: To run a large-scale amusement park, we require a lot of analytics in various components such as queueing systems, inventory management, park attendance, maximum utilization of resources and revenue. We will investigate some aspects of this and try to provide recommendations on the models which can be used to solve some of these problems.
